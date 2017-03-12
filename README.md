@@ -13,8 +13,7 @@ LIS 2360:  Web Application Development
 (Calculator assignment using Javascript.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://vkida.github.io/lesson4_javascript1/)
 
 ### Lessons Learned in the Assignment:
 1. To declare, initialize, modify and display variables.
